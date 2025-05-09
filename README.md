@@ -1,4 +1,4 @@
-# Leeds Stock Market (Js)
+# Leeds Stock Market (Dashapp)
 
 An interactive stock market simulator built with **Dash** and **Sqlite**. Users can buy and sell virtual stocks, monitor real-time price changes, and view dynamic market news. All actions are tracked and stored in the respective datasets as well as stock prices.
 
