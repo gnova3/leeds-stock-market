@@ -2,7 +2,7 @@
 
 A minimal and interactive stock market simulator built with **React** and **Tailwind CSS**. Users can buy and sell virtual stocks, monitor real-time price changes, and view dynamic market news.
 
-![Leeds Stock Market Screenshot](./StockMarket.png)
+![Leeds Stock Market Screenshot](StockMarket.png)
 
 ## Getting Started
 
